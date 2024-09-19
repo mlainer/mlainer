@@ -15,21 +15,51 @@
 # in the templates via {{ site.myvariable }}.
 title: Personal website of Martin Lainer
 email: mlainer@arcor.de
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: "Researcher in atmospheric sciences"
+  
 domain: mlainer.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mlainer.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
+url: "https://mlainer.github.io" # the base hostname & protocol for your site, e.g. 
+author:
+  name: "[Martin Lainer]"
+  avatar: "/assets/images/profile-picture.jfif" # Replace with your profile image
+  bio: "I am a meteorologist and physicist with deep expertise in weather radar technology, atmospheric data analysis, and algorithm development. With a proven track record in research and applied projects, including work on weather radar systems, drones, wind profiling, and data processing, I have significantly contributed to research projects and operational efficiency. Driven by a passion for scientific discovery, I am combining advanced technical skills with a focus on practical solutions, particularly in the fields of the atmospheric sciences."
+  location: "Locarno, Switzerland"
+  links:
+    - label: "Google Scholar"
+      icon: "google-scholar"
+      url: "https://scholar.google.com/citations?user=Mx84gAUAAAAJ&hl=de"
+    - label: "ORCID"
+      icon: "orcid"
+      url: "https://orcid.org/0000-0002-1129-3406"
+    - label: "LinkedIn"
+      icon: "linkedin"
+      url: "https://www.linkedin.com/in/mlainer/"
+
+
 github_username:  mlainer
 
 # Build settings
 markdown: kramdown
 theme: minimal-mistakes-jekyll
 plugins:
-  - jekyll-feed
+  - jekyll-optional-front-matter
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: single
+      sidebar:
+        nav: "docs"  # Create a custom navigation file in `_data/navigation.yml`
+
+google_analytics: G-W7WWVCFZGE # Replace with your tracking ID
+
+# SEO settings
+seo:
+  title: "Martin Lainer - Researcher in atmospheric sciences"
+  description: "Scientific collaborator at MeteoSwiss, focusing on radar meteorology."
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
