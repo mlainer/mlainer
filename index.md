@@ -1,7 +1,7 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
----
+
 layout: splash
 title: "Welcome to My Scientific Page"
 header:
@@ -16,7 +16,6 @@ excerpt: "Currently I am a scientific collaborator at MeteoSwiss, specializing i
 
 intro:
   - excerpt: "I am currently researching [Key Research Topics] and collaborating with [Partners/Institutions]."
----
 
 <div class="intro">
   {{ page.intro[0].excerpt }}
