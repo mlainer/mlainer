@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Welcome"
-author_profile: "true"
+author_profile: true
 header:
   overlay_image: /assets/images/header_bg.jpg # Optional background image
   overlay_filter: 0.3 # Adjust the opacity of the image

@@ -1,7 +1,7 @@
 title: Personal website of Martin Lainer
 email: mlainer@arcor.de
 description: "Researcher in atmospheric sciences"
-author_profile: "true"  
+author_profile: true  
 domain: mlainer.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mlainer.github.io" # the base hostname & protocol for your site, e.g. 
