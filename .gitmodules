@@ -1,0 +1,9 @@
+[submodule "website/themes/ananke"]
+	path = website/themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "website/themes/adrition"]
+	path = website/themes/adrition
+	url = https://github.com/zetxek/adritian-free-hugo-theme
+[submodule "website/themes/hugo-coder"]
+	path = website/themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
