@@ -20,8 +20,7 @@ gem "minimal-mistakes-jekyll"
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 gem "github-pages", group: :jekyll_plugins
 
-gem "kramdown", ">= 2.3.0"
-gem "kramdown-parser-gfm"
+gem "redcarpet"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do

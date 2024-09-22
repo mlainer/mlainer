@@ -29,7 +29,17 @@ theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-optional-front-matter
 
-markdown: kramdown
+markdown: redcarpet
+redcarpet:
+  extensions:
+    - tables
+    - autolink
+    - fenced_code_blocks
+    - strikethrough
+    - lax_spacing
+    - space_after_headers
+    - with_toc_data
+
 google_analytics: G-W7WWVCFZGE # Replace with your tracking ID
 
 defaults:
