@@ -1,10 +1,10 @@
 ---
 layout: splash
-title: "Welcome to My Scientific Page"
+title: "Welcome"
+author_profile: true
 header:
   overlay_image: /assets/images/header_bg.jpg # Optional background image
-  overlay_filter: 0.5 # Adjust the opacity of the image
-  caption: "Photo Credit: [Martin Lainer]"
+  overlay_filter: 0.3 # Adjust the opacity of the image
   actions:
     - label: "View Research"
       url: "/research"
