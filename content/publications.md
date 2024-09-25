@@ -1,9 +1,7 @@
----
-title: "Publications"
++++
+title = "Publications"
 slug = "publications"
-date: 2024-09-22
-type: "page"
----
++++
 
 ## Journal Articles
 
