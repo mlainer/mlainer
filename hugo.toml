@@ -15,7 +15,7 @@ enableEmoji = true
 noClasses = false
 
 [params]
-author = "Martin Lainer"
+author = "Martin Lainer, PhD"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Martin Lainer's personal website"
 keywords = "research,developer,personal"
