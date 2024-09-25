@@ -27,4 +27,4 @@ slug = "publications"
 1. M. Lainer. “Investigating the Variability and Dynamics of Middle Atmospheric Water Vapor by Ground-based Microwave Radiometry.” PhD thesis, University of Bern, 2017.
 2. M. Lainer. “Numerische Simulationen von langlebigen Kondensstreifen mit Lagrange’scher Mikrophysik.” Master thesis, Ludwig-Maximilian University Munich, 2012.
 
-[Download full publication list (PDF)](/publications/PUBLICATION_LIST_LAINER.pdf)
+[Download full publication list (PDF)](/mlainer/publications/PUBLICATION_LIST_LAINER.pdf)
