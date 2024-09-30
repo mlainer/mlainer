@@ -20,7 +20,7 @@ author = "Martin Lainer, PhD"
 description = "Martin Lainer's personal website"
 keywords = "research,developer,personal"
 info = ["Atmospheric Scientist", "Dog Owner"]
-avatarURL = "images/avatar.jpg"
+avatarURL = "images/ML.jpg"
 dateFormat = "January 2, 2006"
 since = 2024
 # Git Commit in Footer, uncomment the line below to enable it
