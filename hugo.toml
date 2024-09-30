@@ -1,5 +1,5 @@
 baseURL = "https://mlainer.github.io/mlainer/"
-title = "martin lainer"
+title = "Martin Lainer"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -21,8 +21,6 @@ description = "Martin Lainer's personal website"
 keywords = "research,developer,personal"
 info = ["Atmospheric Scientist", "Dog Owner"]
 avatarURL = "images/avatar.jpg"
-dogAvatarURL = "images/Luna.jpg"
-
 dateFormat = "January 2, 2006"
 since = 2024
 # Git Commit in Footer, uncomment the line below to enable it
