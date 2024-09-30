@@ -1,8 +1,11 @@
-{{ if and (isset .Site.Params "avatarurl") (not (isset .Site.Params "gravatar")) }}
+{{ if and (isset .Site.Params "avatarURL") (not (isset .Site.Params "gravatar")) }}
   {{ with .Site.Params.avatarURL }}
-    <div class="avatar"><img src="{{ . | relURL }}" alt="avatar"></div>
+    <div class="avatar"><img src="{{ . | relURL }}" alt="Martin's Avatar"></div>
+  {{ end }}
+  {{ with .Site.Params.dogAvatarURL }}
+    <div class="avatar"><img src="{{ . | relURL }}" alt="Dog's Avatar" style="width: 80%;"></div>
   {{ end }}
 {{ end }}
 {{ with .Site.Params.gravatar }}
-  <div class="avatar"><img src="https://www.gravatar.com/avatar/{{md5 .}}?s=240&d=mp" alt="gravatar"></div>
+  <div class="avatar"><img src="https://www.gravatar.com/avatar/{{md5 .}}?s=240&d=mp" alt="Gravatar"></div>
 {{ end }}

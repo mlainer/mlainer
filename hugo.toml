@@ -21,7 +21,8 @@ description = "Martin Lainer's personal website"
 keywords = "research,developer,personal"
 info = ["Atmospheric Scientist", "Dog Owner"]
 avatarURL = "images/avatar.jpg"
-#gravatar = "mlainer@arcor.de"
+dogAvatarURL = "images/Luna.jpg"
+
 dateFormat = "January 2, 2006"
 since = 2024
 # Git Commit in Footer, uncomment the line below to enable it
@@ -100,6 +101,12 @@ name = "ResearchGate"
 icon = "fa-brands fa-researchgate fa-2x"
 weight = 3
 url = "https://www.researchgate.net/profile/Martin-Lainer"
+
+[[params.social]]
+name = "ORCID"
+icon = "fa-brands fa-orcid fa-2x"
+weight = 4
+url = "https://orcid.org/0000-0002-1129-3406"
 
 #[[params.social]]
 #name = "RSS"
