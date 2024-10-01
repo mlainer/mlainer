@@ -3,7 +3,7 @@ title = "Contact"
 slug = "contact"
 +++
 
-## Contact Me
+### Contact Me
 Please feel free to send me a message using the form below.
 
 <form action="https://formspree.io/f/mwpegyyq" method="POST">
