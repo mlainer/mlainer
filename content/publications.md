@@ -5,7 +5,7 @@ slug = "publications"
 
 ## Journal Articles
 
-1. A. Ferrone, J. Kopp, M. Lainer, M. Gabella, U. Germann, and A. Berne. “Double moment normalization of hail size number distributions over Switzerland.” *Atmospheric Measurement Techniques Discussions*, 2024, pp. 1–41. DOI: [10.5194/amt-2024-2](https://doi.org/10.5194/amt-2024-2).
+1. A. Ferrone, J. Kopp, M. Lainer, M. Gabella, U. Germann, and A. Berne. “Double moment normalization of hail size number distributions over Switzerland.” *Atmospheric Measurement Techniques*, 2024, 17, pp. 7143–7168, DOI: [10.5194/amt-17-7143-2024](https://doi.org/10.5194/amt-17-7143-2024).
 2. M. Lainer, K. P. Brennan, A. Hering, J. Kopp, S. Monhart, D. Wolfensberger, and U. Germann. “Drone-based photogrammetry combined with deep learning to estimate hail size distributions and melting of hail on the ground.” *Atmospheric Measurement Techniques*, 2024, 17(8), pp. 2539–2557. DOI: [10.5194/amt-17-2539-2024](https://doi.org/10.5194/amt-17-2539-2024).
 3. M. Gabella, M. Lainer, D. Wolfensberger, and J. Grazioli. “On the polarimetric backscatter by a still or quasi-still wind turbine.” *Atmospheric Measurement Techniques*, 2023, 16(19), pp. 4409–4422. DOI: [10.5194/amt-16-4409-2023](https://doi.org/10.5194/amt-16-4409-2023).
 4. J. Figueras i Ventura, Z. Schauwecker, M. Lainer, and J. Grazioli. “On the Effect of Radome Characteristics on Polarimetric Moments and Sun Measurements of a Weather Radar.” *IEEE Geoscience and Remote Sensing Letters*, 2021, 18(4), pp. 642–646. DOI: [10.1109/LGRS.2020.2981993](https://doi.org/10.1109/LGRS.2020.2981993).
